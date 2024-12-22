@@ -1,0 +1,7 @@
+
+# ignorar o arquivo de configuração de credenciais
+*.env
+
+# ignorar os arquivos de configuração do ambiente virtual
+.venv/
+
